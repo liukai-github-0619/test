@@ -1,0 +1,6 @@
+D:\搜狗高速下载\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\搜狗高速下载\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\搜狗高速下载\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\搜狗高速下载\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\搜狗高速下载\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
